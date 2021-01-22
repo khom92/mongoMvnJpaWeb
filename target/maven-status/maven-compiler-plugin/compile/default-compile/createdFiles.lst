@@ -1,0 +1,9 @@
+com\mycompany\mongojpamvn\entities\TestCollection.class
+com\mycompany\mongojpamvn\config\MongoConnection.class
+com\mycompany\mongojpamvn\interfaces\IDaoFacadeJpa.class
+com\mycompany\mongojpamvn\implementations\DaoFacadeJpa.class
+com\mycompany\mongojpamvn\entities\OidPojo.class
+com\mycompany\mongojpamvn\entities\TestCollectionPojo.class
+com\mycompany\mongojpamvn\interfaces\IDaoFacade.class
+com\mycompany\mongojpamvn\implementations\DaoFacade.class
+com\mycompany\mongojpamvn\controllers\index_controller.class
